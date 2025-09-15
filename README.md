@@ -1,0 +1,2 @@
+# Compleate-Clean_Architecture-with-.Net-Azure-CICD
+FinanceApp project- Frontend: Angular 13 - Backend: .NET (Clean Architecture with Api, Domain, Application, Infrastructure, Migrations). Mediator and Repository Patters. Identity server for authentication and authorization, EF core for data manipulation - Database: Azure SQL - API Gateway: Azure API Management (APIM) - CI/CD: Bitbucket Pipelines 
